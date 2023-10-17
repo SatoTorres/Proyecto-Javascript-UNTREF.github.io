@@ -1,0 +1,19 @@
+#todo{
+    background-image: url(https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg);
+    background-attachment: fixed;
+    background-size: cover;   
+}
+#cabeza{
+display: flex;
+}
+#principal{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+#pie{
+    display: flex;
+    justify-content: space-around;
+}
+#formulario{
+    padding-top: 100px;
+}

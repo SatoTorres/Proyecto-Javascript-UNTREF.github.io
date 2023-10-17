@@ -1,0 +1,112 @@
+[
+    {
+        "Codigo" : "01",
+        "Nombre" : "Age Of Empires II: Definitive Edition",
+        "img" : "./img/aOe2.PNG",  
+        "Género" : "Estrategia",
+        "Clasificación" : "ESRB-T, PEGI-12",
+        "Descripción" : "Age of Empires II: Definitive Edition incluye 'Los últimos khanes', que incorpora 3 campañas y 4 civilizaciones nuevas. Las frecuentes actualizaciones contienen eventos, contenido adicional, nuevos modos de juego (¡como el reciente modo cooperativo!) y funciones mejoradas.",
+        "Precio" : "$1500",
+        "Puntuación" : "84/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/ZOgBVR21pWg?si=hpldkoRL4JUEGuGF"
+    },
+    {
+        "Codigo" : "02",
+        "Nombre" : "Dark Souls: Remastered",
+        "img" : "./img/dS2.PNG",
+        "Género" : "RPG // Accion",
+        "Clasificación" : "ESRB-M, PEGI-16",
+        "Descripción" : "Entonces llegó el Fuego. Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps.",
+        "Precio" : "$3500",
+        "Puntuación" : "84/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/Woe0PYZPxRw?si=8qaWiorW3rtilicU"
+    },
+    {
+        "Codigo" : "03",
+        "Nombre" : "Final Fantasy XIV Online",
+        "img" : "./img/fF14.PNG",
+        "Género" : "MMORPG",
+        "Clasificación" : "ESRB-T, PEGI-16",
+        "Descripción" : "Únete a más de 27 millones de aventureros de todo el mundo y forma parte de un alucinante viaje en un increíble FINAL FANTASY en constante evolución. Disfruta de una historia inolvidable, emocionantes batallas y numerosos escenarios cautivadores que explorar.",
+        "Precio" : "$1000",
+        "Puntuación" : "83/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/zTTtd6bnhFs?si=j8WDtTlsXaww_SSd"
+    },
+    {
+        "Codigo" : "04",
+        "Nombre" : "Hogwarts Legacy",
+        "img" : "./img/hWl.PNG",
+        "Género" : "RPG // Accion // Aventura",
+        "Clasificación" : "ESRB-T, PEGI-12",
+        "Descripción" : "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.",
+        "Precio" : "$4000",
+        "Puntuación" : "83/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/BtyBjOW8sGY?si=6bgGjL1c6ETEC8EQ"
+    },
+    {
+        "Codigo" : "05",
+        "Nombre" : "Secret of Mana",
+        "img" : "./img/sOm.PNG",
+        "Género" : "JRPG",
+        "Clasificación" : "ESRB-E, PEGI-7",
+        "Descripción" : "¡La inolvidable aventura de Randy, Prim y Popoi regresa con Secret of Mana! Secret of Mana, lanzado por primera vez en 1993, es con creces el título más popular de la serie Mana ¡y ahora por fin veremos una nueva versión en 3D de este juego!",
+        "Precio" : "$2000",
+        "Puntuación" : "63/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/21EWY94yNxs?si=D1DMtg4Zwd-WMMkk"
+    },
+    {
+        "Codigo" : "06",
+        "Nombre" : "Stray",
+        "img" : "./img/stray.PNG",
+        "Género" : "Aventura",
+        "Clasificación" : "ESRB-E, PEGI-12",
+        "Descripción" : "Perdido, solo y separado de su familia, un gato callejero debe desentrañar un antiguo misterio para escapar de una ciberciudad olvidada y encontrar el camino a casa.",
+        "Precio" : "$1500",
+        "Puntuación" : "82/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/ExIWRqqlv2U?si=GaZb7LHnmnxl6YcR"
+    },
+    {
+        "Codigo" : "07",
+        "Nombre" : "Vampire: The Masquerade - Coteries of New York",
+        "img" : "./img/vC.PNG",
+        "Género" : "Novela Visual",
+        "Clasificación" : "ESRB-M, PEGI-16",
+        "Descripción" : "Vampire: The Masquerade - Coteries of New York es una experiencia narrativa ambientada en el rico universo de Vampiro: La Mascarada 5ta Edicion. Presenta la lucha por el poder entre dos facciones vampíricas, la Camarilla y los Anarquistas, bañadas por las luces nocturnas de la Gran Manzana.",
+        "Precio" : "$750",
+        "Puntuación" : "70/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/nSVo9srHP4E?si=1nRTMhJ0qGZ5HnvY"
+    },
+    {
+        "Codigo" : "08",
+        "Nombre" : "Vampire Survivors",
+        "img" : "./img/vampireSurvivors.PNG",
+        "Género" : "Roguelike",
+        "Clasificación" : "ESRB-T, PEGI-12",
+        "Descripción" : "¡Aniquila a miles de criaturas de la noche y sobrevive hasta el amanecer! Vampire Survivors es un juego casual de terror gótico con elementos «roguelite» donde tus decisiones te permitirán aumentar tu poder exponencialmente mientras luchas contra cientos de monstruos.",
+        "Precio" : "$500",
+        "Puntuación" : "87/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/-j2budq0Qpo?si=bQHjMG3S-SErPl72"
+    },
+    {
+        "Codigo" : "09",
+        "Nombre" : "Warhammer: Vermintide 2",
+        "img" : "./img/wHv2.PNG",
+        "Género" : "Shooter // Cooperativo",
+        "Clasificación" : "ESRB-M, PEGI-18",
+        "Descripción" : "La secuela del aclamado Vermintide es un innovador juego de acción de combates cuerpo a cuerpo con impresionantes gráficos que supera los límites del género cooperativo en primera persona. ¡Únete ya a la lucha!",
+        "Precio" : "$1000",
+        "Puntuación" : "82/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/YQuwtXwQZvM?si=rCeM6pkx4JQCEGzr"
+    },
+    {
+        "Codigo" : "10",
+        "Nombre" : "The Witcher 3: Wild Hunt",
+        "img" : "./img/w3.PNG",
+        "Género" : "RPG // Open World",
+        "Clasificación" : "ESRB-M, PEGI-18",
+        "Descripción" : "Eres Geralt de Rivia, cazador de monstruos. En un continente devastado por la guerra e infestado de criaturas, tu misión es encontrar a Ciri, la niña de la profecía, un arma viviente que puede alterar el mundo tal y como lo conocemos.",
+        "Precio" : "$2000",
+        "Puntuación" : "93/100 (Metacritic)",
+        "Video" : "https://www.youtube.com/embed/wUK8GITi84Q?si=Cge0_BrDls_01jlC"
+    }
+]
